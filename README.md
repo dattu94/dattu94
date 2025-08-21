@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/dattu94/dattu94/main/banner.png" alt="AI Engineer Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sree</h1>
+<h1 align="center">Hi 👋, I'm Sree Dattu</h1>
 <h3 align="center">AI Specialist | Data Scientist | Generative AI Enthusiast</h3>
 
 <p align="center">
