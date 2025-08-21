@@ -4,10 +4,10 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sree</h1>
-<h3 align="center">AI Specialist | ML Engineer | Generative AI Enthusiast</h3>
+<h3 align="center">AI Specialist | Data Scientist | Generative AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=AI+Specialist+%40+Wafer+Wire+Technologies;RAG+%26+Generative+AI+Solutions;Azure+%7C+LangChain+%7C+FastAPI;Exploring+Cloud-Native+AI+Architectures" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=AI+Specialist+%40+Wafer+Wire+Technologies;Data+Scientist+%7C+RAG+%26+Generative+AI;Microsoft+Certified+Fabric+DP-700;Azure+%7C+LangChain+%7C+FastAPI" alt="Typing intro" />
 </p>
 
 ---
@@ -19,7 +19,8 @@ class AISpecialist:
 
     def __init__(self):
         self.name = "Sree"
-        self.role = "AI Specialist @ Wafer Wire Technologies"
+        self.role = ["AI Specialist", "Data Scientist"]
+        self.certifications = ["Microsoft Certified: Fabric DP-700"]
         self.expertise = ["RAG", "Generative AI", "Machine Learning", "Azure AI"]
         self.hobbies = ["🎹 Keyboard/Piano", "🏓 Table Tennis", "✨ Astrology"]
 
